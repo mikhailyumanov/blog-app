@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # Intellij IDEA
-.idea
+.idea/
